@@ -1,0 +1,25 @@
+.gitignore
+  s_934af89f1e9cd0::t_68121f253a8ab5 1-3
+Makefile
+  s_934af89f1e9cd0::t_7be873b51d9130 1-17
+Package.swift
+  s_934af89f1e9cd0::t_7b1b36ccf7f623 1-12
+Sources/Define/Define.swift
+  s_934af89f1e9cd0::t_917a339eb28f22 1-81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "558d3ae22c577a8fdf99dfd6c5146c898e936695",
+  "prompts": {},
+  "sessions": {
+    "s_934af89f1e9cd0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1bbfb-6dc3-7340-b635-eb195363f2f2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Sam Keshmiri <samkeshmiri94@gmail.com>"
+    }
+  }
+}
